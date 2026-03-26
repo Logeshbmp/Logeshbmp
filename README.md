@@ -9,7 +9,7 @@
 ## 🚀 Projects
 - 🧠 Blinkit AI Decision Platform  
 - 🎵 Music Clustering System  
-- 🏠 House Price Prediction  
+- 💰 Content Monetization Model  
 - 🐟 Fish Image Classification  
 
 ---
