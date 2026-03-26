@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Logesh Kumar
 
-<!--
-**Logeshbmp/Logeshbmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring AI/ML Engineer  
+💻 Skilled in Python, Machine Learning, NLP  
+📍 Chennai, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🧠 Blinkit AI Decision Platform  
+- 🎵 Music Clustering System  
+- 🏠 House Price Prediction  
+- 🐟 Fish Image Classification  
+
+---
+
+## 🛠️ Skills
+Python | Machine Learning | Pandas | NumPy | Scikit-learn | NLP  
+
+---
+
+## 📫 Contact Me
+📧 logeshbmp@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/logesh-kumar-k-72a209375/
