@@ -2,7 +2,7 @@
 
 🎯 Aspiring AI/ML Engineer  
 💻 Skilled in Python, Machine Learning, NLP  
-📍 Chennai, India  
+📍 Coimbatore, Tamilnadu, India  
 
 ---
 
